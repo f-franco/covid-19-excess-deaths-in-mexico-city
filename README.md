@@ -1,4 +1,4 @@
-# COVID-19: Visualizing the excess mortality in Mexico City
+# COVID-19: Visualizing excess mortality and underreported deaths in Mexico City
 
 ![](https://img.shields.io/badge/programming-r-276DC3?style=for-the-badge&logo=R)
 
@@ -14,4 +14,4 @@ The graph shows three parallel time series. One tracks the reported daily number
 
 > *Red: Daily death certificates issued for 2020 \| Gray: Average 2017--2019 \| Yellow: Average 2017--2019 + COVID-19 deaths reported in CDMX*
 
-To see a more detailed look at the building process, you can visit my post in [Medium](https://f-franco.medium.com/covid-19-underreported-deaths-b4bac8800ddc).
+To see a more detailed look at the building process, you can read my post in [Medium](https://f-franco.medium.com/covid-19-underreported-deaths-b4bac8800ddc).
